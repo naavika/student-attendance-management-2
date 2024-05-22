@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+
+  #srch-btn{
+      background-color:blue;
+      border:none;
+      padding: 5px;
+      border-radius:5px ;
+  }
+  #fetch-btn{
+      background-color:green;
+      border:none;
+      padding: 5px;
+      border-radius:5px ;
+  }
+  #submit{
+      background-color:orange;
+      border:none;
+      padding: 5px;
+      border-radius:5px ;
+
+  }
